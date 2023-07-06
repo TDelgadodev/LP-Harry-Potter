@@ -1,18 +1,17 @@
 ---
 layout: ../../layouts/LayoutPost.astro
-title: Una nueva aventura ha comenzado
+title: Algunos consejos para vivir una mejor experiencia
 author: Marcos Rivas
-description: "Warner Bros. Games ha anunciado el desarrollo de un nuevo juego basado en el universo de Harry Potter. El juego, que aún no tiene título confirmado, será un RPG de mundo abierto en el que los jugadores podrán explorar Hogwarts y sus alrededores."
+description: "Warner Bros. Games ha anunciado el desarrollo de un nuevo juego basado en el universo de Harry Potter. El juego, que aún no tiene título confirmado, será un RPG de mundo abierto en el que los jugadores podrán explorar Hogwarts y sus alrededores.
+"
 image:
-  url: "/assets/image-post-01.jpg"
+  url: "/assets/image-post-03.jpg"
   alt: "The word “astro” against an illustration of planets and stars."
-pubDate: 2023-07-06
+pubDate: 2022-08-08
 tags: ["harry", "news"]
 ---
 
 # Nuevo juego de Harry Potter en desarrollo
-
-![Alt text](/assets/image-post-01.jpg "a title")
 
 Warner Bros. Games ha anunciado el desarrollo de un nuevo juego basado en el universo de Harry Potter. El juego, que aún no tiene título confirmado, será un RPG de mundo abierto en el que los jugadores podrán explorar Hogwarts y sus alrededores.
 
